@@ -53,7 +53,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-04 |
 | **Título** | *Acceso al dashboard según rol* |
 | **Descripción** | *Como usuario autenticado quiero ver un dashboard base al iniciar sesión para confirmar que ingresé correctamente.* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Baja]* Un usuario puede saber el inicio de sesión exitoso sin la necesidad de un dashboard, pues se podría aplicar una interfaz más sencilla para el usuario. Sin embargo, un dashboard sería ideal por temas de practicidad. |
 | **Estimación** | *Puntos de historia* |
 
 <br>
