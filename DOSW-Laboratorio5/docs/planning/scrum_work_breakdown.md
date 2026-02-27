@@ -23,7 +23,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-01 |
 | **Título** | *Inicio de sesión* |
 | **Descripción** | *Como usuario del banco quiero iniciar sesión con usuario y contraseña para acceder a funcionalidades según mi rol* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Alta]* Esto se debe a qué un usuario no puede hacer uso de la plataforma si no inicia sesión de forma exitosa.  |
 | **Estimación** | *Puntos de historia* |
 
 <br>
@@ -33,7 +33,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-02 |
 | **Título** | *Mensajes informativos del error* |
 | **Descripción** | *Como usuario del banco quiero recibir mensajes detallados sobre los errores generados al momento de realizar el inicio de sesión para poder identificar el inconveniente y poder encontrar una solución* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Media]* La generación de mensajes, aunque puede ser una forma práctica de recibir el por qué el inicio de sesión fue exitoso, no es la única forma en la que el usuario se entere de esta información (también podría hacer una llamada por medio de servicio al cliente). |
 | **Estimación** | *Puntos de historia* |
 
 <br>
@@ -43,7 +43,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-03 |
 | **Título** | *Recuperación de contraseña* |
 | **Descripción** | *Como usuario del banco quiero recuperar mi acceso cuando olvide mi contraseña para volver a entrar a mi cuenta* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Alta]* Debido a la alta frecuencia con la que los usuarios pierden noción de la contraseñas de sus cuentas, es importante implementar la opción de recuperar la cuenta para cualquier emergencia o pronta necesidad de realizar depósitos. |
 | **Estimación** | *Puntos de historia* |
 
 <br>
