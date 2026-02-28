@@ -6,7 +6,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 1. Épica:
 
-![Épica en Jira](epica.png)
+![Épica en Jira](/DOSW-Laboratorio5/docs/images/epica.png)
 
 
 ### 2. Historias de usuario:
