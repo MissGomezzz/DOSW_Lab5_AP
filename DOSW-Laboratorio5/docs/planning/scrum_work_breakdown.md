@@ -24,7 +24,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | *Inicio de sesión* |
 | **Descripción** | *Como usuario del banco quiero iniciar sesión con usuario y contraseña para acceder a funcionalidades según mi rol* |
 | **Prioridad** | *[Alta]* Es esencial y meramente funcional que un usuario pueda iniciar sesión|
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | ** |
 
 <br>
 
@@ -34,7 +34,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | *Mensajes informativos del error* |
 | **Descripción** | *Como usuario del banco quiero recibir mensajes detallados sobre los errores generados al momento de realizar el inicio de sesión para poder identificar el inconveniente y poder encontrar una solución* |
 | **Prioridad** | *[Media]* Aunque es importante para el usuario, este no interviene directamente en la funcionalidad del proyecto|
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | ** |
 
 <br>
 
@@ -44,7 +44,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | *Recuperación de contraseña* |
 | **Descripción** | *Como usuario del banco quiero recuperar mi acceso cuando olvide mi contraseña para volver a entrar a mi cuenta* |
 | **Prioridad** | *[Media]* |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | ** |
 
 <br>
 
@@ -54,7 +54,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | *Acceso al dashboard según rol* |
 | **Descripción** | *Como usuario autenticado quiero ver un dashboard base al iniciar sesión para confirmar que ingresé correctamente.* |
 | **Prioridad** | *[Alta]* |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | ** |
 
 <br>
 <br>
@@ -211,3 +211,9 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | *Evidencia con pruebas donde cada rol pueda hacer lo que tiene definido*|
 | **Tareas requisito** | *TR-14* |
+
+
+### Video de consenso Planning Poker HU3
+![Video consenso](/ConsensoHU3.mp4)
+
+Video disponible en esta misma carpeta. Está llamado ConsensoHU3.mp4
