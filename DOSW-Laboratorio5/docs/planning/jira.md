@@ -97,3 +97,15 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 5. Backlog:
 
+
+Nota: debido a que se crasheó el Jira, no pudimos enlazar las historias de uso con la sección de BackLog. Sin embargo, a continuación se muestran las historias de usuario desde la sección principal. 
+
+
+![alt text](/DOSW-Laboratorio5/docs/images/hu.png)
+
+
+Para esta sección se decidieron 4 historias de uso con 3 o 4 tareas cada una: esto se hizo con la intención de una distribución de HU práctica entre los integrantes. Cada una cuenta con una descripción y está relacionada en el Jira con el Sprint llamado Autenticación Bankify, como se observa en la imagen. 
+
+
+---
+
