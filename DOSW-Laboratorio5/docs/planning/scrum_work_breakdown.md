@@ -24,7 +24,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | *Inicio de sesión* |
 | **Descripción** | *Como usuario del banco quiero iniciar sesión con usuario y contraseña para acceder a funcionalidades según mi rol* |
 | **Prioridad** | *[Alta]* Es esencial y meramente funcional que un usuario pueda iniciar sesión|
-| **Estimación** | ** |
+| **Estimación** | *8* |
 
 <br>
 
@@ -34,7 +34,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | *Mensajes informativos del error* |
 | **Descripción** | *Como usuario del banco quiero recibir mensajes detallados sobre los errores generados al momento de realizar el inicio de sesión para poder identificar el inconveniente y poder encontrar una solución* |
 | **Prioridad** | *[Media]* Aunque es importante para el usuario, este no interviene directamente en la funcionalidad del proyecto|
-| **Estimación** | ** |
+| **Estimación** | *3* |
 
 <br>
 
@@ -44,7 +44,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | *Recuperación de contraseña* |
 | **Descripción** | *Como usuario del banco quiero recuperar mi acceso cuando olvide mi contraseña para volver a entrar a mi cuenta* |
 | **Prioridad** | *[Media]* |
-| **Estimación** | ** |
+| **Estimación** | *8* |
 
 <br>
 
@@ -54,7 +54,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | *Acceso al dashboard según rol* |
 | **Descripción** | *Como usuario autenticado quiero ver un dashboard base al iniciar sesión para confirmar que ingresé correctamente.* |
 | **Prioridad** | *[Alta]* |
-| **Estimación** | ** |
+| **Estimación** | *8* |
 
 <br>
 <br>
@@ -214,6 +214,6 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 
 ### Video de consenso Planning Poker HU3
-![Video consenso](/ConsensoHU3.mp4)
+![Video consenso](/DOSW-Laboratorio5/docs/planning/ConsensoHU3.mp4)
 
 Video disponible en esta misma carpeta. Está llamado ConsensoHU3.mp4
