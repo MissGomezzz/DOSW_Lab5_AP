@@ -12,3 +12,13 @@ del desarrollo de software.
 Paula Valentina Lozano Castañeda
 
 Ángela Sofía Gómez Valencia
+
+## Definición de integrantes
+
+Debido a que solo somo dos integrantes decidimos dar dos roles a una misma persona. 
+Para este caso:
+Ángela Gómez: Product owner y developer
+Paula Lozano: Scrum master
+
+
+
