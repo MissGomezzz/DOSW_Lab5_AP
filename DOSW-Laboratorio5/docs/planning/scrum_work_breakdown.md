@@ -23,7 +23,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-01 |
 | **Título** | *Inicio de sesión* |
 | **Descripción** | *Como usuario del banco quiero iniciar sesión con usuario y contraseña para acceder a funcionalidades según mi rol* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Alta]* Es esencial y meramente funcional que un usuario pueda iniciar sesión|
 | **Estimación** | *Puntos de historia* |
 
 <br>
@@ -33,7 +33,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-02 |
 | **Título** | *Mensajes informativos del error* |
 | **Descripción** | *Como usuario del banco quiero recibir mensajes detallados sobre los errores generados al momento de realizar el inicio de sesión para poder identificar el inconveniente y poder encontrar una solución* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Media]* Aunque es importante para el usuario, este no interviene directamente en la funcionalidad del proyecto|
 | **Estimación** | *Puntos de historia* |
 
 <br>
@@ -43,7 +43,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-03 |
 | **Título** | *Recuperación de contraseña* |
 | **Descripción** | *Como usuario del banco quiero recuperar mi acceso cuando olvide mi contraseña para volver a entrar a mi cuenta* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Media]* |
 | **Estimación** | *Puntos de historia* |
 
 <br>
@@ -53,7 +53,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-04 |
 | **Título** | *Acceso al dashboard según rol* |
 | **Descripción** | *Como usuario autenticado quiero ver un dashboard base al iniciar sesión para confirmar que ingresé correctamente.* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Prioridad** | *[Alta]* |
 | **Estimación** | *Puntos de historia* |
 
 <br>
@@ -96,7 +96,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | TR-04 |
 | **Título** | *Pruebas credenciales*|
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Realizar pruebas con credenciales válidas e inválidas y confirmar que el sistema es congruente*|
+| **Descripción** | *Realizar pruebas con credenciales válidas e inválidas y confirmar que el sistema es congruente *|
 | **Tareas requisito** | *TR-03* |
 
 <br>
