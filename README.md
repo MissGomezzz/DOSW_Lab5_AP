@@ -17,7 +17,9 @@ Paula Valentina Lozano Castañeda
 
 Debido a que solo somo dos integrantes decidimos dar dos roles a una misma persona. 
 Para este caso:
+<br>
 Ángela Gómez: Product owner y developer
+<br>
 Paula Lozano: Scrum master
 
 
